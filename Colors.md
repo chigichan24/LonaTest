@@ -3,8 +3,10 @@
 These are the core colors in our design system.
 
 ```tokens
-let red: Color = #color(css: "#F03E3E")
+let Main: Color = #color(css: "#F03E3E")
 ```
+
+Hoge
 
 ```tokens
 let pink: Color = #color(css: "#D6336C")
@@ -49,3 +51,4 @@ let yellow: Color = #color(css: "#F59F00")
 ```tokens
 let orange: Color = #color(css: "#F76707")
 ```
+
